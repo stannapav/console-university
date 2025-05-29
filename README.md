@@ -23,3 +23,4 @@ But also you can use shortened words like: stat, avg, dept or just similar words
 
 Database is created and gets filled when you open start it for the first time with the help of data seeding.
 I used keyword to determine what command is being used and with regex extracted what's needed.
+Tests are done using JUnit and Mokito
